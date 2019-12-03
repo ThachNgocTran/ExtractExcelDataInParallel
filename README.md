@@ -1,5 +1,5 @@
-# ExtractExcelDataInParallel
-A small script to extract Excel Data in parallel into Dataframes, using xlwings and Python's multiprocessing.
+# Extract Excel Data In Parallel
+A small script to extract Excel Data in parallel into Dataframes, using xlwings and Python's multiprocessing. Why need Parallelism? Because accessing low-level cells is slow, e.g. a few ms for one cell. Low-level cells allow to leverage many kinds of functionalities supported by VBA.
 
 ## Prerequisites
 
