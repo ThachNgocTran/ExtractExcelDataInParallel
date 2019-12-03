@@ -1,0 +1,4 @@
+[.\data\5000 Sales Records.xlsx]SaleRecords!A1:B5001
+[.\data\5000 Sales Records.xlsx]SaleRecords!C1:D5001
+[.\data\5000 Sales Records.xlsx]SaleRecords!E1:F5001
+[.\data\5000 Sales Records.xlsx]SaleRecords!G1:H5001
